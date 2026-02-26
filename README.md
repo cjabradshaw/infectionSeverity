@@ -10,7 +10,7 @@ Determine the most important predictors of infection severity in patients admitt
 <br>
 and<br>
 <br>
-Associate Professor<a href="https://www.eijkelkamplab.com/our-team">Bart Eijkelkamp</a><br>
+Associate Professor <a href="https://www.eijkelkamplab.com/our-team">Bart Eijkelkamp</a><br>
 <a href="https://www.eijkelkamplab.com" target="_blank">Eijkelkamp Lab</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
 <a href=mailto:bart.eijkelkamp@flinders.edu.au>e-mail</a> <br>
 <br>
