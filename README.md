@@ -1,7 +1,7 @@
 # Predicting infection severity in patients admitted to hospital
 
 Determine the most important predictors of infection severity in patients admitted to hospital (testing: age, gender, body mass index, frailty on admission).
-<img align="right" src="www/stomachache.jpg" alt="" width="200" style="margin-top: 20px">
+<img align="right" src="www/lunginfection.png" alt="" width="200" style="margin-top: 20px">
 <br>
 <br>
 <a href="https://www.eijkelkamplab.com/our-team">Ella Haracic</a><br>
@@ -26,8 +26,6 @@ Project collaborators:
 Haracic et al. <a href="http://doi.org/">Title</a>. 2026. <em><strong>Journal</strong></em><br>
 
 ## <a href="https://github.com/cjabradshaw/infectionSeverity/tree/main/scripts">Scripts</a>
-<img align="right" src="www/DHSmap.jpg" alt="" width="400" style="margin-top: 20px">
-
 - <code>infect.R</code>: R code with all main analyses.
 
 ## Data
