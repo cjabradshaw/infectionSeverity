@@ -2,7 +2,7 @@
 
 Determine the most important predictors of infection severity in patients admitted to hospital (testing: age, gender, body mass index, frailty on admission).
 <img align="right" src="www/lunginfection.png" alt="" width="200" style="margin-top: 20px">
-<img align="right" src="www/sepsis.webp" alt="" width="200" style="margin-top: 15px"><br>
+<img align="right" src="www/sepsis.webp" alt="" width="150" style="margin-top: 20px"><br>
 <br>
 <a href="https://www.eijkelkamplab.com/our-team">Ella Haracic</a><br>
 <a href="https://www.eijkelkamplab.com" target="_blank">Eijkelkamp Lab</a>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
