@@ -1,6 +1,6 @@
-# Predicting infection severity in patients admitted to hospital
+# Predicting infection severity in intensive-care unit patients admitted to hospital
 
-Determine the most important predictors of infection severity in patients admitted to hospital (testing: age, gender, body mass index, frailty on admission).
+Determine the most important predictors of infection severity in patients admitted to the intensive care unit (selection criterion: 3 days on respirator). Hypotheses: testing effects of age, gender, body mass index, and frailty on admission on infection probability.
 <img align="right" src="www/lunginfection.png" alt="" width="200" style="margin-top: 20px">
 <img align="right" src="www/sepsis.webp" alt="" width="180" style="margin-top: 20px"><br>
 <br>
